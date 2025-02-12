@@ -132,26 +132,6 @@ const About = () => {
               <SiPostman size={40} className="text-[#ef5b25]" />
               <span className="font-bold">Postman</span>
             </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiGraphql size={40} className="text-[#e535ab]" />
-              <span className="font-bold">GraphQL</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <IoLogoVercel size={40} className="text-[#000]" />
-              <span className="font-bold">Vercel</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiNetlify size={40} className="text-[#00d1b2]" />
-              <span className="font-bold">Netlify</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiRender size={40} className="text-[#000]" />
-              <span className="font-bold">Render</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <FaFigma size={40} className="text-[#F24E1E]" />
-              <span className="font-bold">Figma</span>
-            </div>
           </div>
         </div>
       </div>
